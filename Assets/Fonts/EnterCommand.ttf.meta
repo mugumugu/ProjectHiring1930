@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e3d38b9816d7ed045b49a0a8b3ce2905
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EnterCommand
+  fontNames:
+  - EnterCommand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c1fc77461b75a841820c9896a57590f, type: 3}
+  - {fileID: 12800000, guid: 7750e3e68c4792c45b6c66eac1c22c03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
